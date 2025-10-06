@@ -1,0 +1,1 @@
+Add an image file named /public/villa.jpg to simulate hero image.
